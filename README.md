@@ -18,7 +18,7 @@ Here are some of my strengths:
 
 ## 📱 Contact
   <div>
-    <a href="vinicius.great-site.net" target="_blank"> <img scr="180em" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> &nbsp; &nbsp;
+    <a href="https://vinicius.great-site.net" target="_blank"> <img scr="180em" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </a> &nbsp; &nbsp;
     <a href="mailto:vdavidmarques@gmail.com" target="_blank"><img scr="180em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp; &nbsp;
     <a href="https://www.behance.net/viniciusdavidmarques" target="_blank"><img scr="180em" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> &nbsp; &nbsp;  
     <a href="https://www.instagram.com/viniciusdavidm" target="_blank"><img scr="180em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp; &nbsp;  
