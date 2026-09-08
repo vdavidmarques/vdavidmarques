@@ -52,7 +52,4 @@ Here are some of my strengths:
     <img scr="180em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> &nbsp; &nbsp;
   </div>
     <br/> <br/>
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdavidmarques&layout=compact&langs_count=168&theme=dracula"/>
-  </div>
 
